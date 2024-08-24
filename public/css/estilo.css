@@ -1,0 +1,11 @@
+.body {
+    font-family: Arial, sans-serif;
+    background-color:#f4ffda;
+}
+.dataTables_info {
+    display: none;
+}
+.bi {
+    color: black;
+    font-size: 20px;
+}
